@@ -1,4 +1,4 @@
-EntityModel
+Luminous.Common.EntityModel
 =======
 
 AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/mlmmdvxdjlvwrab3?svg=true)](https://ci.appveyor.com/project/chrispickford/entitymodel)
